@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying paper and this software release."
+title: "Cubical Normality Checker"
+type: software
+version: 0.1.0
+# Add authors, repository-code, DOI, date-released, and the preferred-citation
+# after the manuscript metadata and archival software DOI are finalized.
