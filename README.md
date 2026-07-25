@@ -56,7 +56,3 @@ The included suite covers input validation, deterministic certificates, translat
 - `tests/test_checker.py`: canonical regression tests
 - `docs/pipeline1_v1_spec.md`: exact mathematical and software contract
 - `examples/`: one passing and one failing minimal input
-
-## Citation and license
-
-Before public release, replace `CITATION.cff.template` with the manuscript's final bibliographic metadata and choose an explicit open-source license. No license is granted merely by publishing source code without a license file.
