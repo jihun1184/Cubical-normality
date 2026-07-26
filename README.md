@@ -59,4 +59,4 @@ The included suite covers input validation, deterministic certificates, translat
 
 ## Citation and license
 
-This project is licensed under the BSD 3-Clause License. See [`LICENSE`](LICENSE) for details. Citation metadata for release `v1.0.0` is provided in [`CITATION.cff`](CITATION.cff); update its `date-released` field to match the date of the GitHub release/tag it accompanies.
+This project is licensed under the BSD 3-Clause License. See [`LICENSE`](LICENSE) for details. Citation metadata for release `v1.0.0` is provided in [`CITATION.cff`](CITATION.cff).
