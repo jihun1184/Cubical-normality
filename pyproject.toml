@@ -4,10 +4,11 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "cubical-normality"
-version = "0.1.0"
+version = "1.0.0"
 description = "Certificate-producing checker for embedded doubled-coordinate 3D cubical normality"
 readme = "README.md"
 requires-python = ">=3.9"
+license = "BSD-3-Clause"
 dependencies = []
 classifiers = [
   "Programming Language :: Python :: 3",

@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below. If you also refer to the accompanying manuscript, please cite that separately once it is published (see note at the end of this file)."
+title: "Cubical Normality Checker"
+type: software
+version: 1.0.0
+# date-released should be set to the actual date the corresponding GitHub
+# release/tag is published; update this before or immediately after tagging.
+date-released: "2026-07-26"
+license: BSD-3-Clause
+repository-code: "https://github.com/jihun1184/Cubical-normality"
+authors:
+  - family-names: Bae
+    given-names: Jihun
+    affiliation: "Graduate School of Information, Production, and Systems, Waseda University"
+  - family-names: Bae
+    given-names: Yeonho
+    affiliation: "Department of Statistics and Data Science, Dongguk University"
+  - family-names: Hu
+    given-names: Jinglu
+    affiliation: "Graduate School of Information, Production, and Systems, Waseda University"
+
+# The manuscript this software accompanies ("A Characterization of
+# Poset-Based Connected Manifolds and Discrete Surfaces via Cubically
+# Normal Pseudomanifolds") is, at the time of this release, submitted to
+# the Journal of Mathematical Imaging and Vision (JMIV) and not yet
+# published. Add a `preferred-citation` block here with the final
+# volume/pages/DOI once it is accepted, rather than before.
